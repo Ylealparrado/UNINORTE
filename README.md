@@ -1,7 +1,13 @@
 # UNINORTE
 Modulo 1 ejercicio propuesto de evaluacion github
+Fichero:
+TIENDA.PY (contiene en Lenduaje Python un simple codigo para dar lugar a unos datos pedidos y mostrados por consola -Terminal en VS)
 
-Lenduaje Python datos pedidos y mostrados por consola -Terminal en VS-
+Commit realizado desde la terminal que tiene visual studio code.
+
+
+Codigo:
+
 
 import sys
 
